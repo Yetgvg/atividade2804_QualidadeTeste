@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# TypeScript
+dist/
+build/
+
+# Jest
+coverage/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
